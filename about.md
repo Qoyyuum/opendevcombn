@@ -1,9 +1,3 @@
-# Second Page
+# About
 
-Quick test
-
----
-
-```Code test```
-
-Something something
+About OpenDevComBn...
